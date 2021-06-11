@@ -47,6 +47,5 @@ end = 'Z'
 # Monta o grafo em um arquivo pdf ou img
 plot(grafo)
 
-# Mostra os possíveis caminhos
+# Mostra os possiveis caminhos
 all_shortest_paths(grafo, start, end)
-
