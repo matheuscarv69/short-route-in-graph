@@ -17,7 +17,7 @@ Utilizar grafos é de grande utilidade na representação de problemas da vida r
 
 É uma coleção de ferramentas de análise de rede com ênfase na eficiência, portabilidade e facilidade de uso.
 
-[Documentação](https://igraph.org/r/doc/)
+[Documentação](https://igraph.org/r/)
 
 Aqui nesse algoritmo foram usadas as seguintes funções do Igraph:
 
